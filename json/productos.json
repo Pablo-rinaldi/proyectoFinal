@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "marca": "FAD",
+      "color": "Amarrillo",
+      "precio": 10000,
+      "url": "../img/fad-fixed-amarilla.jpeg"
+    },
+    {
+      "id": 2,
+      "marca": "FAD",
+      "color": "Fluo",
+      "precio": 12000,
+      "url": "../img/fad-fixed-fluo.jpeg"
+    },
+    {
+      "id": 3,
+      "marca": "FAD",
+      "color": "Verde",
+      "precio": 15000,
+      "url": "../img/fad-single-verde.jpeg"
+    },
+    {
+      "id": 4,
+      "marca": "Mercuri",
+      "color": "Violeta",
+      "precio": 20000,
+      "url": "../img/Mercury-fixed-violeta.jpeg"
+    },
+    {
+      "id": 5,
+      "marca": "Ene ene",
+      "color": "Cromado",
+      "precio": 10000,
+      "url": "../img/nn-cromo.jpeg"
+    },
+    {
+      "id": 6,
+      "marca": "FAD",
+      "color": "Negro",
+      "precio": 10000,
+      "url": "../img/nn-single.jpeg"
+    }
+  ]
+}
