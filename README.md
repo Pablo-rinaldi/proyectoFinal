@@ -1,4 +1,4 @@
-# proyectoFinal
+# Proyecto Final
 
 ## Descripcion
 Este proyecto se trata de una aplicacion web para un bicicleteria llamada kobb, la misma consta de 5 paginas responsive de las cuales 1 esta hecha enteramente con bootstrap (contacto), cuenta con un formulario y un iFrame integrado. Las demas paginas estan estiladas con  Sass y Bootstrap para el nav, algunos componentes estan alineados con grid y otros con flexbox. Se utilizaron variables de Sass para los colores y funcionalidades de la misma como el ```extend```.
